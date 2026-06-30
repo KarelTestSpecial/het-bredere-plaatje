@@ -58,6 +58,4 @@ It need not be. But turning it around begins with recognizing the pattern — an
 
 ---
 
-*Essay — K.D.*
-
 *© K.D. — Free to share with attribution.*

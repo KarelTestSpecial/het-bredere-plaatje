@@ -58,6 +58,4 @@ Dat hoeft niet. Maar het keren ervan begint bij het herkennen van het patroon �
 
 ---
 
-*Essay — K.D.*
-
 *© K.D. — Vrij te delen met bronvermelding.*
