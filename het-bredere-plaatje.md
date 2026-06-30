@@ -2,8 +2,6 @@
 
 ### Hoe de ontmanteling van het onderwijs een democratie van binnenuit uitholt
 
-*Essay — K.D.*
-
 ## I. Onderwijs was de grote gelijkmaker
 
 Er bestaat één instituut dat in een democratie de belofte van gelijke kansen waarmaakt: het onderwijs. Het is de ladder waarlangs een kind uit een arm gezin een ander leven kan bereiken dan dat van zijn ouders. Het is ook de werkplaats waar burgers leren lezen, wegen en oordelen — precies de vaardigheden die een democratie nodig heeft om te functioneren. Wie aan het onderwijs raakt, raakt dus aan de fundamenten van de samenleving zelf.
@@ -59,5 +57,7 @@ Dat hoeft niet. Maar het keren ervan begint bij het herkennen van het patroon �
 - Hyman Minsky (over financiële instabiliteit)
 
 ---
+
+*Essay — K.D.*
 
 *© K.D. — Vrij te delen met bronvermelding.*

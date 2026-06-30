@@ -2,8 +2,6 @@
 
 ### How the dismantling of education hollows out a democracy from within
 
-*Essay — K.D.*
-
 ## I. Education was the great equalizer
 
 In a democracy, one institution makes good on the promise of equal opportunity: education. It is the ladder by which a child from a poor family can reach a life different from that of their parents. It is also the workshop where citizens learn to read, weigh and judge — precisely the skills a democracy needs in order to function. To touch education, then, is to touch the foundations of society itself.
@@ -59,5 +57,7 @@ It need not be. But turning it around begins with recognizing the pattern — an
 - Hyman Minsky (on financial instability)
 
 ---
+
+*Essay — K.D.*
 
 *© K.D. — Free to share with attribution.*
